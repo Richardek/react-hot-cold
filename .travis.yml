@@ -9,6 +9,6 @@ deploy:
   provider: heroku
   api_key:
     secure: ndpjlbcFHVmnoKsdCAgUtgPw/dx9Oz3+VQhTO97zxL4exKrJQImrGOHeWBaCJujkLoKS719fj2O9P8cmzNlWSuZKa87TOSz9xMIo55sXq1gL+0OYDqPCiN5+MnI22g0EpShyZcSea/g2enn3DSnS1X6AZtyokzBllTGCYLYg2kINNsxPfvLWJzdplAsu5UlW+BxEt1EroxwWTWeZEjDLwn51WkRPRJNsBxWSBOpnAiyJ4HJeGBhM0N7+grDUTbgdfL53kX98EH/579MRkwBzfWEcnle2vcz48B42Noe4SjEJAxKkZla3WXgP6P0NdfLCrokCQFFlQlePt2vHHigjYKeAIeO9e5gQkYd6McYYs9dqvB7D+DUNci91JFPsSUsHQO15450MQX6gxXnVRJj2maW+tBnw88RDuOH7Z2vR3WlsJHGgnb+lV0eTDvH1gXqh3px3dUmB3a8tlbKWeRc/ECdi+S3fhp/GPb9s1deYFA/5HN7AI8lSWhlXC50G5pTQ/CRqmjIvt6z5K8jwc7G2GvGs/DoGuhTGIIHCFGYggjO6FE0zzD6NX2PgKiS1xPOeglpdW95lZgo/LMgekbUG4QJYBkztoXK6cBvvJVUUG+Cv0J1xAjbAcDAp1KMno5SdAEaG2sol1RgXRdhugolXtU+lSCgVQwqrPd/s5Ran/uI=
-  app: react-hot-cold
+  app: shielded-ocean-85573
   on:
     repo: Richardek/react-hot-cold
